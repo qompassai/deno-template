@@ -5,7 +5,7 @@
 
 > Template for Qompass AI Deno projects.
 
-![License](https://img.shields.io/badge/License-Apache%202.0-blue.svg)
+<a href="./LICENSE"><img src="https://img.shields.io/badge/License-Apache%202.0-blue.svg" alt="License: Apache 2.0"></a>
 
 A Qompass AI template for Deno (tool) projects — starter configs,
 automation skeletons, and operational notes in the standard Qompass AI
